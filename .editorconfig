@@ -1,0 +1,8 @@
+#editorconfig.org
+root = true
+
+[*]
+ident_style = tab
+ident_size = 2
+end_of_line = lf
+charset = utf-8
